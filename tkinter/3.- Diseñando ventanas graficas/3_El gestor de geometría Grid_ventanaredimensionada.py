@@ -5,7 +5,7 @@ from tkinter import *
 from tkinter import ttk, font
 import getpass
 
-'''Gestor de geometría (grid). Ventana no dimensionable'''
+'''Gestor de geometría (grid). Ventana dimensionable'''
 
 
 class Aplicacion():
